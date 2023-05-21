@@ -23,7 +23,7 @@ print('_'*65)
 os=("by: MR ALAA")
 print(lll+os)
 print('_'*65)
-number=("01091340528")
+number=("01008965284")
 print()
 password=("Alla@@123")
 print()
@@ -118,7 +118,7 @@ for x in loka:
   pass
 
 
-ny=("01008965284")
+ny=("01091340528")
 print()
 p1=("Alla@@123")
 print()
